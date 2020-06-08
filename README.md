@@ -7,4 +7,9 @@ This repo contains the source files of the Newsletter Magnet Badge. You can use 
     <img alt="Subscribe with Newsletter Magnet" src="https://cdn.newslettermagnet.com/public/images/badge/newsletter-magnet-badge-dark.svg" style="height:64px;width:auto"/>
 </a>`
 
+The code above will create an image link to the Publisher Profile Page. Make sure you use the URL to your profile. In this example, the image links to the Newsletter Magnet profile page.
+<a href="https://www.newslettermagnet.com/publisher/NewsletterMagnetForPublishers">
+    <img alt="Subscribe with Newsletter Magnet" src="https://cdn.newslettermagnet.com/public/images/badge/newsletter-magnet-badge-dark.svg" style="height:64px;width:auto"/>
+</a>
+
 Feel free to use our CDN to deliver the Newsletter Magnet Badge image to your website.
